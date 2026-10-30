@@ -1,0 +1,17 @@
+# Claves y entornos
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.pfx
+
+# Sistema y editor
+node_modules/
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Imagen original pesada: la web usa conciliaciones-web.jpg
+img/Conciliaciones.png
